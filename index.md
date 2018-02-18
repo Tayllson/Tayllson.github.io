@@ -45,7 +45,15 @@ Email: Tayllssonwer@gmail.com
  
  ![](pjd.png)
  
- * Projeto integrador - É um jogo digital(Tower Defende), vinculado com a materia de biologia. Tratamos de unir o estilo de jogo a uma área estudada pela disciplina de biologia, daí optamos por fazer uma espécie de agregação envolvendo o game a vírus e bactérias. O game consiste em defender o organismo de determinadas bactérias ou vírus. Tower Defende (em português, defesas de torres), tem como objetivo impedir que inimigos percorram por um mapa por meio de armadilhas para atrasá-los e torres que atiram neles enquanto passam. 
+ * Projeto integrador - É um jogo digital(Tower Defende), vinculado com a materia de biologia. Tratamos de unir o estilo de jogo a uma área estudada pela disciplina de biologia, daí optamos por fazer uma espécie de agregação envolvendo o game a vírus e bactérias. O game consiste em defender o organismo de determinadas bactérias ou vírus. Tower Defende (em português, defesas de torres), tem como objetivo impedir que inimigos percorram por um mapa por meio de armadilhas para atrasá-los e torres que atiram neles enquanto passam.   
+ 
+ # Trabalhos desenvolvidos   
+ 
+ * Multimídia e animação - Nessa materia técnica, a turna de jogos digitais desenvolve animação de personagens e criam sons para o desenvolmento de jogos.   
+ 
+ ![](Au.png)
+ 
+ 
 
 
 
