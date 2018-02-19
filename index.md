@@ -54,7 +54,7 @@ Email: Tayllssonwer@gmail.com
  
  ![](Ct.png)
  
- # Trabalhos desenvolvidos   
+# Trabalhos Desenvolvidos    
  
  * Mockup de Jogo - Juntamente com meu colega, desenvolvemos um Mockup de um jogo e também um aúdio. Todas as artes foram feitas em Pixel, seu desenvolvimento foi no construct 2 e a criação do aúdio no audacity.  
  
