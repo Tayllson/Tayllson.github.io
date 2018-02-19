@@ -1,14 +1,18 @@
 ---
 layout: default
 ---  
-**PORTIFÓLIO**
+**PORTIFÓLIO**  
 
 # Quem sou eu
 
 ![](t11.png) Olá! Me chamo Tailson Ferreira.   
 Sou estudante do IFRN/Campus Ceará-Mirim, do curso técnico em Programação de Jogos Digitais.   
   
-**VEM CONHECER MEUS JOGOS**
+**VEM CONHECER MEUS TRABALHOS**
+# Citação  
+
+**Nada é permanente, exceto a mudança.**   
+(Heráclito de Éfeso)
 # Informações pessoais
 
 Facebook: Tailson Ferreira   
@@ -54,7 +58,7 @@ Email: Tayllssonwer@gmail.com
  
  * Mockup de Jogo - Juntamente com meu colega, desenvolvemos um Mockup de um jogo e também um aúdio. Todas as artes foram feitas em Pixel, seu desenvolvimento foi no construct 2 e a criação do aúdio no audacity.  
  
- Link para acessar o Muckup: (https://jefferson141.github.io/Mockup/)
+   Link para acessar o Muckup: (https://jefferson141.github.io/Mockup/)
  
  ![](Au.png)  
  ![](PS.png)
