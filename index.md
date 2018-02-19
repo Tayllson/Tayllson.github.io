@@ -47,14 +47,21 @@ Email: Tayllssonwer@gmail.com
  
  * Projeto integrador - É um jogo digital(Tower Defende), vinculado com a materia de biologia. Tratamos de unir o estilo de jogo a uma área estudada pela disciplina de biologia, daí optamos por fazer uma espécie de agregação envolvendo o game a vírus e bactérias. O game consiste em defender o organismo de determinadas bactérias ou vírus. Tower Defende (em português, defesas de torres), tem como objetivo impedir que inimigos percorram por um mapa por meio de armadilhas para atrasá-los e torres que atiram neles enquanto passam.    
  
+ 
  ![](Ct.png)
  
  # Trabalhos desenvolvidos   
  
- *  .   
+ * Mockup de Jogo - Juntamente com meu colega, desenvolvemos um Mockup de um jogo e também um aúdio. Todas as artes foram feitas em Pixel, seu desenvolvimento foi no construct 2 e a criação do aúdio no audacity.  
  
- ![](Au.png)
+ Link para acessar o Muckup: (https://jefferson141.github.io/Mockup/)
  
+ ![](Au.png)  
+ ![](PS.png)
+ 
+ * Mapa de Influência - Para ajudar na criação de novos jogos e manter a criatividade no desenvolvimento de jogos, os alunos de PJD3M, teriam que criar seu próprio mata de influência. Serviu como estimulo para ampliar a criação de novos jogos.  
+ 
+ ![](flu.png)
  
 
 
