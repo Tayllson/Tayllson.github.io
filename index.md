@@ -26,16 +26,13 @@ Email: Tayllssonwer@gmail.com
 
 
 
-# Artes
+# Artes 
 
-![](teladra.png)
-![](vt.png) 
-![](ad.png)
-![](rn.png)
 ![](st.png)
-![](bl.png)
+![](bl.png)  
+* Para o trabalho da oficina de criação, foi desenvolvido artes em pixel.
 
-# Apresentações
+# Apresentações dos jogos
 
 * Jogo 1 - Dracul - Ele é um jogo de plataforma e jogamos em PC. Dracul conta a história de um vámpiro que está querendo voltar para seu castelo, mas antes de completar seu objetivo, ele precisa passar por obstáculos, coletar 5 chaves e tudo isso antes que o tempo acabe ou então esse será seu FIM. 
 
