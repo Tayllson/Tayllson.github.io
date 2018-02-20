@@ -62,7 +62,7 @@ Email: Tayllssonwer@gmail.com
  
  * Mapa de Influência - Para ajudar na criação de novos jogos e manter a criatividade no desenvolvimento de jogos, os alunos de PJD3M, teriam que criar seu próprio mata de influência. Serviu como estimulo para ampliar a criação de novos jogos.  
  
- ![](GMT.png)
+ ![](AQ.png)
  
 
 
