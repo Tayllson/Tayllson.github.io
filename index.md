@@ -64,11 +64,11 @@ Email: Tayllssonwer@gmail.com
  
  ![](AQ.png)
  
- # Releituras de filmes 
+ # Releituras 
  
  ![](RL.png)  
  ![](YH.png)
- * Foram obras feitas para um trabalho
+ * Foram obras recriadas de filmes para o trabalho de design.
  
 
 
