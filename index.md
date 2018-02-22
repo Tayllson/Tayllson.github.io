@@ -64,7 +64,7 @@ Email: Tayllssonwer@gmail.com
  
  ![](AQ.png)
  
- # Releituras 
+# Releituras
  
  ![](RL.png)  
  ![](YH.png)
