@@ -9,32 +9,39 @@ layout: default
 Sou estudante do IFRN/Campus Ceará-Mirim, do curso técnico em Programação de Jogos Digitais.   
   
 **VEM CONHECER MEU PORTIFÓLIO**   
-***
+
+ ***
+
 # Citação  
 
 **Nada é permanente, exceto a mudança.**   
 (Heráclito de Éfeso)  
-***
+
+ ***
+ 
 # Informações pessoais
 
 Facebook: Tailson Ferreira   
 Instagram: @_tailson.f  
 Email: Tayllssonwer@gmail.com  
-***
+
+ ***
+
 # Games
 
 [JOGO 1: OFICINA - DRACUL](https://tayllson.github.io/Dracul1/)     
 [JOGO 2: OFICINA - ADVENTURIRUNNER](https://tayllson.github.io/AdventuriRunner/)  
 [JOGO 3: OFICINA - MUNDOROBÔ](https://tayllson.github.io/MundoRob%C3%B4/)   
 
-***
+ ***
 
 # Artes 
 * Para o trabalho da oficina de criação, foi desenvolvido artes em pixel.  
 Parcerias:[Arthur Soares](reiarthursr.github.io), [Felipe Castro](felipecastroifrn.github.io)
 ![](st.png)
 ![](bl.png)    
-***
+
+ ***
 
 # Apresentações dos jogos
 
@@ -43,7 +50,9 @@ Parcerias:[Arthur Soares](reiarthursr.github.io), [Felipe Castro](felipecastroif
 * Jogo 2 - Adventuri Runner - Esse é um jogo Mobile. Adventuri Runner é um jogo especialmente para celulares, pois foi pensado para esse tipo de jogo a utilização de smartfone que vem crescendo fortemente no mercado de jogos. A pequena garota, está sempre em busca de aventuras, por isso que criei um jogo Runner em que a garota deverá coletar o máximo possível de moedas e pergaminhos seguindo sempre em frente.
 
 * Jogo 3 - Mundo Robô - Jogamos em PC. Mundo Robô é um jogo de tiro, onde máquinas estão lutando para poder se manter. O jogo é construído em pixel art, ele se passa em um mundo chamando PixelTron. Antes de acabar com toda sua munição, pense bem, para abrir as portas você precisará de bala e os inimigos tomam vantagem quando você não tem munição.  
-***
+
+ ***
+
 # Projetos
 
  * Gameterapia - uma forma de unir jogos digitais a pacientes acometidos pelo Acidente fascular encefálico(AVE) - Esse projeto surgiu a partir de uma atividade que foi passada em sala de aula pela professora de biologia, Videanny Videnov. Para desenvolver o projeto, meu grupo e eu, optamos em acrescentar o curso de jogos no projeto, por isso do termo " Unir jogos digitais". A pesquisa foi feita com idosos do asilo são vincente de Paulo em Ceará-Mirim/RN. O desenvolvmento desse projeto é analisar jogos digitais e consoles para utilizar-los como Gameterapia em pessoas que sofreram o AVE. Além disso, é trazer uma boa condição de vida para pessoas acometidas de uma forma mais ludica. O projeto foi credenciado à 32ª edição da Mostra Brasileira de Ciência e Tecnologia - MOSTRATEC, que acontece em Novo Hamburgo (RS) ainda no mês de outubro.
@@ -54,7 +63,8 @@ Parcerias:[Arthur Soares](reiarthursr.github.io), [Felipe Castro](felipecastroif
  Parcerias:[Arthur Soares](reiarthursr.github.io), [Felipe Castro](felipecastroifrn.github.io)
  
  ![](Ct.png)  
- ***
+ 
+  ***
  
 # Trabalhos Desenvolvidos    
  
@@ -68,13 +78,16 @@ Parcerias:[Arthur Soares](reiarthursr.github.io), [Felipe Castro](felipecastroif
  * Mapa de Influência - Para ajudar na criação de novos jogos e manter a criatividade no desenvolvimento de jogos, os alunos de PJD3M, teriam que criar seu próprio mata de influência. Serviu como estimulo para ampliar a criação de novos jogos.  
  
  ![](AQ.png)  
- ***
+
+***
+
 # Releituras
  
   * Foram obras recriadas de filmes para o trabalho de design.
  ![](RL.png)  
  ![](YH.png)  
-***
+
+ ***
 
  
 
