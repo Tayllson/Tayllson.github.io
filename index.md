@@ -66,9 +66,10 @@ Email: Tayllssonwer@gmail.com
  
 # Releituras
  
+  * Foram obras recriadas de filmes para o trabalho de design.
  ![](RL.png)  
  ![](YH.png)
- * Foram obras recriadas de filmes para o trabalho de design.
+
  
 
 
