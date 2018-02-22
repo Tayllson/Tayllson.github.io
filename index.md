@@ -8,7 +8,7 @@ layout: default
 ![](t11.png) Olá! Me chamo Tailson Ferreira.   
 Sou estudante do IFRN/Campus Ceará-Mirim, do curso técnico em Programação de Jogos Digitais.   
   
-**VEM CONHECER MEUS PORTIFÓLIO** 
+**VEM CONHECER MEU PORTIFÓLIO** 
 # Citação  
 
 **Nada é permanente, exceto a mudança.**   
