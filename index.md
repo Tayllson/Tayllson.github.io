@@ -27,7 +27,8 @@ Email: Tayllssonwer@gmail.com
 
 
 # Artes 
-* Para o trabalho da oficina de criação, foi desenvolvido artes em pixel.
+* Para o trabalho da oficina de criação, foi desenvolvido artes em pixel.  
+Parcerias: Arthur Soares e Felipe castro.
 ![](st.png)
 ![](bl.png)  
 
