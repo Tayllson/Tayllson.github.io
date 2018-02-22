@@ -27,10 +27,10 @@ Email: Tayllssonwer@gmail.com
 
 
 # Artes 
-
+* Para o trabalho da oficina de criação, foi desenvolvido artes em pixel.
 ![](st.png)
 ![](bl.png)  
-* Para o trabalho da oficina de criação, foi desenvolvido artes em pixel.
+
 
 # Apresentações dos jogos
 
