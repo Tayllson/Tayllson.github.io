@@ -28,7 +28,7 @@ Email: Tayllssonwer@gmail.com
 
 # Artes 
 * Para o trabalho da oficina de criação, foi desenvolvido artes em pixel.  
-Parcerias: Arthur Soares e Felipe castro.
+Parcerias:[Arthur Soares](reiarthursr.github.io), [Felipe Castro](felipecastroifrn.github.io)
 ![](st.png)
 ![](bl.png)  
 
@@ -43,12 +43,12 @@ Parcerias: Arthur Soares e Felipe castro.
 
 # Projetos
 
- * Gameterapia/ uma forma de unir jogos digitais a pacientes acometidos pelo Acidente fascular encefálico(AVE) - Esse projeto surgiu a partir de uma atividade que foi passada em sala de aula pela professora de biologia, Videanny Videnov. Para desenvolver o projeto, meu grupo e eu, optamos em acrescentar o curso de jogos no projeto, por isso do termo " Unir jogos digitais". A pesquisa foi feita com idosos do asilo são vincente de Paulo em Ceará-Mirim/RN. O desenvolvmento desse projeto é analisar jogos digitais e consoles para utilizar-los como Gameterapia em pessoas que sofreram o AVE. Além disso, é trazer uma boa condição de vida para pessoas acometidas de uma forma mais ludica. O projeto foi credenciado à 32ª edição da Mostra Brasileira de Ciência e Tecnologia - MOSTRATEC, que acontece em Novo Hamburgo (RS) ainda no mês de outubro.
+ * Gameterapia - uma forma de unir jogos digitais a pacientes acometidos pelo Acidente fascular encefálico(AVE) - Esse projeto surgiu a partir de uma atividade que foi passada em sala de aula pela professora de biologia, Videanny Videnov. Para desenvolver o projeto, meu grupo e eu, optamos em acrescentar o curso de jogos no projeto, por isso do termo " Unir jogos digitais". A pesquisa foi feita com idosos do asilo são vincente de Paulo em Ceará-Mirim/RN. O desenvolvmento desse projeto é analisar jogos digitais e consoles para utilizar-los como Gameterapia em pessoas que sofreram o AVE. Além disso, é trazer uma boa condição de vida para pessoas acometidas de uma forma mais ludica. O projeto foi credenciado à 32ª edição da Mostra Brasileira de Ciência e Tecnologia - MOSTRATEC, que acontece em Novo Hamburgo (RS) ainda no mês de outubro.
  
  ![](pjd.png)
  
  * Projeto integrador - É um jogo digital(Tower Defende), vinculado com a materia de biologia. Tratamos de unir o estilo de jogo a uma área estudada pela disciplina de biologia, daí optamos por fazer uma espécie de agregação envolvendo o game a vírus e bactérias. O game consiste em defender o organismo de determinadas bactérias ou vírus. Tower Defende (em português, defesas de torres), tem como objetivo impedir que inimigos percorram por um mapa por meio de armadilhas para atrasá-los e torres que atiram neles enquanto passam.    
- 
+ Parcerias:[Arthur Soares](reiarthursr.github.io), [Felipe Castro](felipecastroifrn.github.io)
  
  ![](Ct.png)
  
